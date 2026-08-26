@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUt5GFI9F/8=",
+  "success": true,
+  "projectFilePath": "E:\\quanlynhansu\\backend\\HRManagement.Application\\HRManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

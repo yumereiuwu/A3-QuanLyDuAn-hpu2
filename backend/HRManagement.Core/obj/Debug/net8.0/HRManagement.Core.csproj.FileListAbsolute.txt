@@ -1,0 +1,11 @@
+E:\quanlynhansu\backend\HRManagement.Core\bin\Debug\net8.0\HRManagement.Core.deps.json
+E:\quanlynhansu\backend\HRManagement.Core\bin\Debug\net8.0\HRManagement.Core.dll
+E:\quanlynhansu\backend\HRManagement.Core\bin\Debug\net8.0\HRManagement.Core.pdb
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\HRManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\HRManagement.Core.AssemblyInfoInputs.cache
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\HRManagement.Core.AssemblyInfo.cs
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\HRManagement.Core.csproj.CoreCompileInputs.cache
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\HRManagement.Core.dll
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\refint\HRManagement.Core.dll
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\HRManagement.Core.pdb
+E:\quanlynhansu\backend\HRManagement.Core\obj\Debug\net8.0\ref\HRManagement.Core.dll

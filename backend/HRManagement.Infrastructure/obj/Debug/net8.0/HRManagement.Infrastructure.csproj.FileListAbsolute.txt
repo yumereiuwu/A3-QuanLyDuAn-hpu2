@@ -1,0 +1,17 @@
+E:\quanlynhansu\backend\HRManagement.Infrastructure\bin\Debug\net8.0\HRManagement.Infrastructure.deps.json
+E:\quanlynhansu\backend\HRManagement.Infrastructure\bin\Debug\net8.0\HRManagement.Infrastructure.runtimeconfig.json
+E:\quanlynhansu\backend\HRManagement.Infrastructure\bin\Debug\net8.0\HRManagement.Infrastructure.dll
+E:\quanlynhansu\backend\HRManagement.Infrastructure\bin\Debug\net8.0\HRManagement.Infrastructure.pdb
+E:\quanlynhansu\backend\HRManagement.Infrastructure\bin\Debug\net8.0\HRManagement.Core.dll
+E:\quanlynhansu\backend\HRManagement.Infrastructure\bin\Debug\net8.0\HRManagement.Core.pdb
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.AssemblyInfo.cs
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManage.5C57F789.Up2Date
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.dll
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\refint\HRManagement.Infrastructure.dll
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.pdb
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\HRManagement.Infrastructure.genruntimeconfig.cache
+E:\quanlynhansu\backend\HRManagement.Infrastructure\obj\Debug\net8.0\ref\HRManagement.Infrastructure.dll

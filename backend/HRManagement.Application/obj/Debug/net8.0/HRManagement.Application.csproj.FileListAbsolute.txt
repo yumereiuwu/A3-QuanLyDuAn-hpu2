@@ -1,0 +1,15 @@
+E:\quanlynhansu\backend\HRManagement.Application\bin\Debug\net8.0\HRManagement.Application.deps.json
+E:\quanlynhansu\backend\HRManagement.Application\bin\Debug\net8.0\HRManagement.Application.dll
+E:\quanlynhansu\backend\HRManagement.Application\bin\Debug\net8.0\HRManagement.Application.pdb
+E:\quanlynhansu\backend\HRManagement.Application\bin\Debug\net8.0\HRManagement.Core.dll
+E:\quanlynhansu\backend\HRManagement.Application\bin\Debug\net8.0\HRManagement.Core.pdb
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.csproj.AssemblyReference.cache
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.AssemblyInfoInputs.cache
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.AssemblyInfo.cs
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.csproj.CoreCompileInputs.cache
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManage.380E2EFB.Up2Date
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.dll
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\refint\HRManagement.Application.dll
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\HRManagement.Application.pdb
+E:\quanlynhansu\backend\HRManagement.Application\obj\Debug\net8.0\ref\HRManagement.Application.dll

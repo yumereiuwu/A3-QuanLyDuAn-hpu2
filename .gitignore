@@ -1,0 +1,10 @@
+node_modules/
+.vs/
+__pycache__/
+*.pyc
+.env
+node_modules/
+.venv/
+.vs/
+bin/
+obj/

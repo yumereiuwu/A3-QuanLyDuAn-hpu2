@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/6VhFrFq6I=",
+  "success": true,
+  "projectFilePath": "E:\\quanlynhansu\\backend\\HRManagement.Core\\HRManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
